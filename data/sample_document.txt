@@ -1,0 +1,4 @@
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines.
+Machine Learning is a subset of AI that allows systems to learn from data.
+Retrieval-Augmented Generation (RAG) combines retrieval systems with generative models.
+RAG improves factual accuracy by retrieving relevant context before generating responses.
