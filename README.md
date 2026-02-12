@@ -1,5 +1,4 @@
-# enterprise-rag-system
-Enterprise Document QA using RAG (FAISS + OpenAI/HuggingFace)
+
 # Enterprise RAG System
 
 This project implements a Retrieval-Augmented Generation (RAG) pipeline using:
